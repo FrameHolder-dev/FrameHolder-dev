@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👨‍💻 FrameHolder
+**FullStack разработчик (Kotlin/Python/JS) • Дизайнер Figma**  
+📍 Беларусь / Дубай  
 
-<!--
-**FrameHolder-dev/FrameHolder-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ Стек технологий:
+**Backend:** Python (Django), Kotlin, MySQL  
+**Frontend:** React, Next.js, Tailwind  
+**Дизайн:** Figma (UI/UX, Прототипирование)  
 
-Here are some ideas to get you started:
+### 🚀 Последний проект:
+**[CloudSMS.ru](https://cloudsms.ru)**  
+_Система управления Android-устройствами через СМС_  
+• Полный цикл: от дизайна до продакшена  
+• Kotlin-приложение + Django-бэкенд  
+• Реальный B2B-кейс (российский заказчик)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 Студия FrameLabs:
+[![Telegram](https://img.shields.io/badge/-FrameLabs-26A5E4?logo=telegram)](https://t.me/framelabs1)
+
+### 📬 Контакты:
+[![Telegram](https://img.shields.io/badge/-@frameholder-26A5E4?logo=telegram)](https://t.me/frameholder)  
+[![Email](https://img.shields.io/badge/-frameholder4@gmail.com-D14836?logo=gmail)](mailto:frameholder4@gmail.com)
+
+---
+
+# 👨‍💻 FrameHolder
+**FullStack Developer (Kotlin/Python/JS) • Figma Designer**  
+📍 Belarus / Dubai  
+
+### 🛠️ Tech Stack:
+**Backend:** Python (Django), Kotlin, MySQL  
+**Frontend:** React, Next.js, Tailwind  
+**Design:** Figma (UI/UX, Prototyping)  
+
+### 🚀 Latest Project:
+**[CloudSMS.ru](https://cloudsms.ru)**  
+_Android device management via SMS_  
+• End-to-end development  
+• Kotlin app + Django backend  
+• Real B2B case (Russian client)  
+
+### 🌐 FrameLabs Studio:
+[![Telegram](https://img.shields.io/badge/-FrameLabs-26A5E4?logo=telegram)](https://t.me/framelabs1)
+
+### 📬 Contact Me:
+[![Telegram](https://img.shields.io/badge/-@frameholder-26A5E4?logo=telegram)](https://t.me/frameholder)  
+[![Email](https://img.shields.io/badge/-frameholder4@gmail.com-D14836?logo=gmail)](mailto:frameholder4@gmail.com)
+
+---
+
+**GitHub Stats:**  
+[![Stats](https://github-readme-stats.vercel.app/api?username=FrameHolder&show_icons=true&theme=vision-friendly-dark)](https://github.com/FrameHolder)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrameHolder&layout=compact&theme=vision-friendly-dark)](https://github.com/FrameHolder)
