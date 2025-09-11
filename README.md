@@ -3,7 +3,7 @@
 📍 Беларусь / Дубай  
 
 ### 🛠️ Стек технологий:
-**Backend:** Python (Django), Kotlin, MySQL  
+**Backend:** Python (Django / FastAPI), Kotlin, MySQL  
 **Frontend:** React, Next.js, Tailwind  
 **Дизайн:** Figma (UI/UX, Прототипирование)  
 
