@@ -33,10 +33,10 @@ _Система управления Android-устройствами через
 **Design:** Figma (UI/UX, Prototyping)  
 
 ### 🚀 Latest Project:
-**[CloudSMS.ru](https://cloudsms.ru)**  
-_Android device management via SMS_  
+**SchoolShop**  
+_Telegram MiniApp managent_  
 • End-to-end development  
-• Kotlin app + Django backend  
+• React MiniApp + NextJS backend  
 • Real B2B case (Russian client)  
 
 ### 🌐 FrameLabs Studio:
