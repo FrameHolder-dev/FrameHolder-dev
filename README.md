@@ -16,6 +16,7 @@ _MiniApp для покупки снеков и канцелярии в школ�
 
 ### 🌐 Студия FrameLabs:
 [![Telegram](https://img.shields.io/badge/-FrameLabs-26A5E4?logo=telegram)](https://t.me/framelabs1)
+[![Site](https://img.shields.io/badge/-FrameLabs-26A5E4?logo=site)](https://framelabs.one)
 
 ### 📬 Контакты:
 [![Telegram](https://img.shields.io/badge/-@frameholder-26A5E4?logo=telegram)](https://t.me/frameholder)  
