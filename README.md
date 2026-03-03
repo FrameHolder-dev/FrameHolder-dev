@@ -1,28 +1,28 @@
 # ⚡️ I'm FrameHolder | CTO @ FrameLabs
-**High-Level FullStack Engineer & System Architect** 📍 Belarus / Dubai / Global 🌍
+**High-Level System Architect & FullStack Engineer** 📍 Belarus / Dubai / Global 🌍
 
-> "Building scalable digital infrastructure with surgical precision."
+> "Engineering scalable digital infrastructure and high-performance ecosystems."
 
 ---
 
 ### 🛠️ Tech Arsenal
 * **Backend:** TypeScript (Node.js), Python (FastAPI), Kotlin
-* **Frontend & Mobile:** SwiftUI (iOS), React, Next.js
+* **Frontend & Mobile:** SwiftUI (iOS), React, Next.js, Tailwind
 * **Infrastructure:** Linux (Ubuntu), Nginx, Docker, VPN Protocols (VLESS/Reality/XHTTP)
-* **Design:** Figma (Professional UI/UX & Prototyping)
+* **Design:** Professional UI/UX & Prototyping (Figma)
 
 ---
 
-### 💎 Featured Project: aTunnel
+### 🚀 Featured Project: aTunnel
 **Distributed VPN Ecosystem for iOS & Global Markets** * **Role:** Lead Architect & FullStack Developer
-* **Tech:** Swift (iOS Client) + TypeScript Backend + Multi-Region Edge Nodes (DE, FI)
-* **Status:** Production / App Store Deployment Phase
+* **Architecture:** Multi-region edge nodes (Germany & Finland) with automated backend synchronization
+* **Status:** In Production / App Store Deployment Phase
 
 ---
 
-### 🌐 My Studio: FrameLabs
+### 🌐 My Studio
 We deliver high-end B2B solutions, from Telegram MiniApps to complex network infrastructures.  
-👉 [Check our work](https://t.me/framelabs1)
+👉 **Visit:** [framelabs.one](https://framelabs.one)
 
 ---
 
@@ -32,6 +32,7 @@ We deliver high-end B2B solutions, from Telegram MiniApps to complex network inf
 
 ---
 
-### 📬 Get in touch
-[![Telegram](https://img.shields.io/badge/-@frameholder-26A5E4?logo=telegram)](https://t.me/frameholder)
-[![Email](https://img.shields.io/badge/-frameholder4@gmail.com-D14836?logo=gmail)](mailto:frameholder4@gmail.com)
+### 📬 Contact Me
+[![Website](https://img.shields.io/badge/-Website-white?logo=google-chrome&logoColor=black)](https://framelabs.one)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/frameholder)
+[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:frameholder4@gmail.com)
