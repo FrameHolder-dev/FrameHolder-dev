@@ -1,40 +1,50 @@
-# ⚡️ I'm FrameHolder | CTO @ FrameLabs
-**High-Level System Architect & FullStack Engineer** 📍 Belarus / Dubai / Global 🌍
+<div align="center">
 
-> "Engineering scalable digital infrastructure and high-performance ecosystems."
+# FrameHolder
 
----
+**CTO, FrameLabs** — Systems Architecture & Full-Stack Engineering
+Belarus · Dubai
 
-### 🛠️ Tech Arsenal
-* **Backend:** TypeScript (Node.js), Python (FastAPI), Kotlin
-* **Frontend & Mobile:** SwiftUI (iOS), React, Next.js, Tailwind
-* **Infrastructure:** Linux (Ubuntu), Nginx, Docker, VPN Protocols (VLESS/Reality/XHTTP)
-* **Design:** Professional UI/UX & Prototyping (Figma)
+[![Website](https://img.shields.io/badge/framelabs.one-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://framelabs.one)
+[![Telegram](https://img.shields.io/badge/-t.me/frameholder-000000?style=flat-square&logo=telegram&logoColor=white)](https://t.me/frameholder)
+[![Email](https://img.shields.io/badge/-ceo@xfl.one-000000?style=flat-square&logo=minutemailer&logoColor=white)](mailto:ceo@xfl.one)
 
----
+</div>
 
-### 🚀 Featured Project: [aTunnel](https://framelabs.one/atunnel)
-**Distributed VPN Ecosystem for iOS & Global Markets**
-* **Role:** Lead Architect & FullStack Developer
-* **Architecture:** Multi-region edge nodes (Germany & Finland) with VLESS/Reality protocols and automated Docker-based synchronization
-* **Status:** In Production / App Store Deployment Phase — Completed ahead of schedule
+<br>
 
----
+### Stack
 
-### 🌐 My Studio
-We deliver high-end B2B solutions, from Telegram MiniApps to complex network infrastructures.
-👉 **Visit:** [framelabs.one](https://framelabs.one)
+| | |
+|---|---|
+| Backend | TypeScript (Node.js), Python (FastAPI), Kotlin |
+| Frontend / Mobile | SwiftUI, React, Next.js, Tailwind |
+| Infrastructure | Linux, Nginx, Docker, VLESS / Reality / XHTTP |
+| Design | Figma |
 
----
+<br>
 
-### 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=FrameHolder&show_icons=true&theme=vision-friendly-dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrameHolder&layout=compact&theme=vision-friendly-dark)
+### Uniqo
 
----
+A financial technology product reimagining how people pay — intelligent card controls, virtual and one-time cards, merchant/country locks, real-time fraud protection and spending intelligence, built card-first instead of as another banking app.
 
-### 📬 Contact FrameLabs
-[![Website](https://img.shields.io/badge/-Official_Site-white?logo=google-chrome&logoColor=black)](https://framelabs.one)
-[![Email](https://img.shields.io/badge/-Founder_Contact-D14836?logo=gmail&logoColor=white)](mailto:founder@xfl.one)
-[![Email](https://img.shields.io/badge/-Business_Inquiries-blue?logo=maildotru&logoColor=white)](mailto:talk@xfl.one)
-[![Telegram](https://img.shields.io/badge/-Direct_Message-26A5E4?logo=telegram&logoColor=white)](https://t.me/frameholder)
+**Status** — Pre-launch
+
+[uniqo.one](https://uniqo.one)
+
+<br>
+
+### FrameLabs
+
+B2B software studio — Telegram Mini Apps, network infrastructure, mobile and web development.
+
+[framelabs.one](https://framelabs.one)
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=FrameHolder&show_icons=true&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B0B0B0&icon_color=FFFFFF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrameHolder&layout=compact&hide_border=true&bg_color=00000000&title_color=FFFFFF&text_color=B0B0B0" height="165" />
+
+</div>
