@@ -36,7 +36,9 @@ A financial technology product reimagining how people pay — intelligent card c
 
 ### FrameLabs
 
-B2B software studio — Telegram Mini Apps, network infrastructure, mobile and web development.
+Quiet products. Serious systems.
+
+An independent studio focused on apps, launch operations and privacy-first products — deep experience in Apple platforms, VPN/eSIM and backend systems.
 
 [framelabs.one](https://framelabs.one)
 
